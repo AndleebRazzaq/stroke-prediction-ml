@@ -70,3 +70,15 @@ The model was trained and saved using `joblib` for deployment efficiency.
 ```bash
 git clone https://github.com/your-username/stroke-prediction-ml.git
 cd stroke-prediction-ml
+
+2️⃣ Create Virtual Environment
+py -m venv venv
+
+3️⃣ Activate Environment
+venv\Scripts\Activate
+
+4️⃣ Install Dependencies
+pip install -r requirements.txt
+
+5️⃣ Run the Application
+streamlit run app.py
