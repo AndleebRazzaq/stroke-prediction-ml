@@ -1,12 +1,10 @@
-# 🧠 Stroke Prediction ML Web App
+# Stroke Prediction ML Web App
 
 An AI-powered web application that predicts the likelihood of stroke using machine learning and real-time user inputs.
 
 This project demonstrates end-to-end ML workflow — from data preprocessing and model training to deployment using Streamlit.
 
----
-
-## 🚀 Project Overview
+## Project Overview
 
 Stroke is one of the leading causes of death and long-term disability worldwide. Early detection of risk factors can significantly improve prevention and treatment outcomes.
 
@@ -23,9 +21,7 @@ This project builds a supervised machine learning model trained on healthcare da
 
 The trained model is deployed as an interactive Streamlit web application for real-time predictions.
 
----
-
-## ✨ Key Features
+## Key Features
 
 - Interactive and user-friendly web interface
 - Real-time stroke risk prediction
@@ -35,9 +31,7 @@ The trained model is deployed as an interactive Streamlit web application for re
 - Visualization support using Matplotlib
 - Production-ready project structure
 
----
-
-## 🧠 Machine Learning Model
+## Machine Learning Model
 
 - **Algorithm Used:** Random Forest Classifier *(update if different)*
 - **Framework:** Scikit-learn
@@ -52,9 +46,7 @@ The trained model is deployed as an interactive Streamlit web application for re
 
 The model was trained and saved using `joblib` for deployment efficiency.
 
----
-
-## 🖥️ Application Preview
+## Application Preview
 
 ### 🔹 Input Interface
 <img src="screenshots/input.png" width="500"/>
@@ -63,7 +55,7 @@ The model was trained and saved using `joblib` for deployment efficiency.
 <img src="screenshots/result.png" width="500"/>
 
 
-## ⚙️ How to Run Locally
+## How to Run Locally
 
 ### 1️⃣ Clone the Repository
 
